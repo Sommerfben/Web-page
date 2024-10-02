@@ -2844,16 +2844,19 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25rem;
+			text-align: left;
 		}
 
 	ul {
 		list-style: disc;
 		margin: 0 0 2rem 0;
 		padding-left: 1rem;
+		text-align: left;
 	}
 
 		ul li {
 			padding-left: 0.5rem;
+			text-align: left;
 		}
 
 		ul.divided {
@@ -2921,6 +2924,7 @@ input, select, textarea {
 
 		header > p {
 			font-style: italic;
+			text-align: left;
 		}
 
 		header > h1 + p {
